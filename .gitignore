@@ -29,3 +29,7 @@ __pycache__/
 *.log
 *.tmp
 *.bak
+
+# dataset
+data/
+calibS-1/
