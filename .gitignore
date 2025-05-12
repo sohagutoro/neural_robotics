@@ -31,5 +31,9 @@ __pycache__/
 *.bak
 
 # dataset
-data/
-calibS-1/
+# data/
+# calibS-1/
+
+
+# OS_files
+.DS_Store
